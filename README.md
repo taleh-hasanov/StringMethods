@@ -1,0 +1,2 @@
+# StringMethods
+EasyWay
